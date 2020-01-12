@@ -76,5 +76,6 @@ button {
   }
   .calculator {
     text-align: center;
+    height: 50vh;
   }
 }
