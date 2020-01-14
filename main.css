@@ -63,10 +63,10 @@ button {
 
 @media screen and (max-width: 670px) {
   .result {
-    font-size: 15px;
+    font-size: 23px;
   }
   h1 {
-    font-size: 15px;
+    font-size: 23px;
   }
   button {
     width: 20%;
@@ -77,5 +77,6 @@ button {
   .calculator {
     text-align: center;
     height: 50vh;
+    width: 100vw;
   }
 }
